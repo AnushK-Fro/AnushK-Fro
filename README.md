@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Github Statistics ⚡
-### Github
+### Starts, commits, etc
 [![Anush's github stats](https://github-readme-stats.vercel.app/api?username=anushk-fro&layout=compact&show_icons=true&theme=dark)](https://github.com/anushk-fro/github-readme-stats)
 
 #### Most used languages
