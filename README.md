@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 [![Anush's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anushk-fro&layout=compact&theme=dark)](https://github.com/anushk-fro/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=AnushK-Fro)
+Warning: There is no IP duplication checking and therefore page refreshes count.
