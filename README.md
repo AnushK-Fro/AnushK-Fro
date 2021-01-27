@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Statistics ⚡
+### GitHub Statistics ⚡
 ##### Stars, commits, etc
 [![Anush's github stats](https://github-readme-stats.vercel.app/api?username=anushk-fro&layout=compact&show_icons=true&theme=dark)](https://github.com/anushk-fro/github-readme-stats)
 
-###### Most used languages
+##### Most used languages
 [![Anush's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anushk-fro&layout=compact&theme=dark)](https://github.com/anushk-fro/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=AnushK-Fro)
